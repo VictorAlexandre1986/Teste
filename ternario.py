@@ -40,3 +40,4 @@ def fala_oi():
 
 funcao=master(fala_oi)
 funcao()
+#teste
